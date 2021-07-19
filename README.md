@@ -12,7 +12,7 @@ When you select a row, type in an event, and press the save button, the event is
 ## Page Link
 The project can be viewed at <https://tharveyster.github.io/work-day-scheduler/>.
 
-## Screen Shot
+## Screen Shots
 ![A user clicks on slots on the color-coded calendar and edits the events.](./assets/images/work-day-scheduler.png)
 ![A user clicks on slots on the color-coded calendar and edits the events.](./assets/images/work-day-scheduler2.png)
 
